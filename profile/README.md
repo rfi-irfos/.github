@@ -18,7 +18,7 @@ Our proof that the model layer works is **albert.** — a ternary Mixture-of-Exp
 
 ### What we build
 
-- **[ternary-intelligence-stack](https://github.com/eriirfos-eng/ternary-intelligence-stack)** — the full TIS monorepo (Ternlang language, BET VM, `@sparseskip`, albert.)
+- **[ternary-intelligence-stack](https://github.com/rfi-irfos/ternary-intelligence-stack)** — the full TIS monorepo (Ternlang language, BET VM, `@sparseskip`, albert.)
 - **albert.** — ternary MoE language model · [HuggingFace](https://huggingface.co/rfi-irfos/albert)
 - **[All repositories →](https://github.com/orgs/rfi-irfos/repositories)**
 
