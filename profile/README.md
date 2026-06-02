@@ -18,9 +18,14 @@ Our proof that the model layer works is **albert.** — a ternary Mixture-of-Exp
 
 ### What we build
 
-- **[ternary-intelligence-stack](https://github.com/rfi-irfos/ternary-intelligence-stack)** — the full TIS monorepo (Ternlang language, BET VM, `@sparseskip`, albert.)
-- **albert.** — ternary MoE language model · [HuggingFace](https://huggingface.co/rfi-irfos/albert)
+- **[ternary-intelligence-stack](https://github.com/rfi-irfos/ternary-intelligence-stack)** — the full TIS monorepo: the **Ternlang** language, the **BET** virtual machine, `@sparseskip` sparse inference, and **albert.**
+- **albert.** — a ternary Mixture-of-Experts language model trained from scratch, growing its own depth via autonomous plateau-gated surgery · [HuggingFace](https://huggingface.co/rfi-irfos/albert)
+- **[rusty-penguin](https://github.com/rfi-irfos/rusty-penguin)** — a ternary-first operating system written from scratch in pure Rust: its own kernel, GUI desktop, from-scratch TCP/IP stack, and a Linux ABI layer that runs real binaries on bare metal.
+- **[invisible-layer](https://github.com/rfi-irfos/invisible-layer)** — making the smartphone sensor array visible: surveillance literacy you can feel.
+- **[albert-spores](https://github.com/rfi-irfos/albert-spores)** — a federated weight pool of collaborator checkpoints feeding albert.
 - **[All repositories →](https://github.com/orgs/rfi-irfos/repositories)**
+
+Our research is published in the open — the **Ternary Intelligence Stack whitepaper** lives on [OSF](https://osf.io/rzvyg) with a persistent DOI.
 
 Patent pending **A50296/2026** (TIS platform, Austrian Patent Office). Developed and documented for **EU AI Act Art. 13 / 14 / 15** (transparency, human oversight, robustness) compliance by design.
 
