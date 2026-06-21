@@ -24,6 +24,8 @@ Our proof that the model layer works is **albert.** — a ternary Mixture-of-Exp
 - **Lighthouse** — the institute's sovereign in-house **workplace OS**: one self-hosted Rust + React binary that runs the entire not-for-profit from a single dashboard — comms, docs, CRM, finance, payroll, HR, governance, and **albert.'s live training telemetry** beside the company's own data. Append-only 50-year audit trail, offline-first, EU-clean by construction, ternary-native — the institute dogfooding its own stack. *(internal · live at [ternlang.com/lighthouse](https://ternlang.com/lighthouse))*
 - **[invisible-layer](https://github.com/rfi-irfos/invisible-layer)** — making the smartphone sensor array visible: surveillance literacy you can feel.
 - **[albert-spores](https://github.com/rfi-irfos/albert-spores)** — a federated weight pool of collaborator checkpoints feeding albert.
+- **[android-security-audit-2026](https://github.com/rfi-irfos/android-security-audit-2026)** — 100 Android apps · 74 companies · 150+ critical findings · NYSE · NASDAQ · LSE · XETRA · coordinated disclosure 2026-09-19.
+- **[aladdin-mini](https://github.com/rfi-irfos/aladdin-mini)** — open-source disclosure impact trading signal engine + Simeon Hedge System (SHS). named after blackrock's aladdin ($21T AUM). this one is smaller. and free. *"sniper, not machine gun."*
 - **[All repositories →](https://github.com/orgs/rfi-irfos/repositories)**
 
 Our research is published in the open — the **Ternary Intelligence Stack whitepaper** lives on [OSF](https://osf.io/rzvyg) with a persistent DOI.
